@@ -1,0 +1,105 @@
+#IndexCointeiner {
+    text-align: center;
+    background-color: rgb(239, 196, 248);
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.opcion {
+
+    border-style: outset;
+    width: 129px;
+    
+    margin-left: 43%;
+    font-size: 120%;
+    background-color: rgb(159, 228, 245);
+    margin-bottom: 4%;
+}
+
+.opcion a {
+    color: #ee30d5;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.Titulo {
+    color: hsla(261, 77%, 74%, 0.959);
+}
+
+.userform {
+    text-align: center;
+    background-color: rgb(239, 196, 248);
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+
+}
+
+.Campos label {
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 30%;
+    text-align: right;
+    
+    
+}
+.Enviar {
+    width: 20%;
+    padding:1%;
+    margin-bottom: 10%;
+    background-color: rgb(159, 228, 245);
+    border: none;
+    border-style: outset; 
+    }
+.Campos input {
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 30%;
+    text-align: left;
+}
+.volerMenu{
+    border: none;
+    padding:1%; 
+    border-style: outset; 
+    margin-bottom: 5%;
+}
+
+.ContenedorLista{
+    text-align: center;
+    background-color: rgb(239, 196, 248);
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+
+}
+
+
+
+.encabezado td {
+    border-top: 1px solid;
+    border-bottom:1px solid;
+    color: #ee30d5;
+    text-decoration: solid;
+    border-color: black;
+    font-size: 125%;
+    
+
+  }
+.encabezado {
+    background-color: rgb(175, 248, 240);
+}
+  
+
+  .filas {
+    background-color: rgb(239, 246, 248);
+  }
+
+  .grid {
+    margin-left: 7.9%;
+    margin-bottom: 4%;
+    width: 85%;
+  
+  }
+
+
